@@ -3,20 +3,32 @@ This project was created for the *Introduction to Agile and Git Workflows for We
 
 [Story links](stories/README.md)
 
+## Quick links
+* [Get Started](#get-started)
 * [Create a Feature Branch](#create-a-feature-branch)
 * [Create a Pull Request](#create-a-pull-request)
 * [Request a Review](#request-a-review)
 * [Review a Pull Request](#review-a-pull-request)
 * [Resolve Merge Conflicts](#resolve-merge-conflicts)
 
-## Getting Started
-* [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
-* [Setting your commit email address in Git - Setting your email address for a single repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository)
-
 ## Resources
 * [Set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
 * [GitHub: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Story Prompts](#story-prompts)
+
+## Get Started
+1. [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+    ```
+    git clone <this repository HTTPS URL>
+    ```
+2. [Setting your username in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
+    ```
+    git config user.name "<your GitHub username>"
+    ```
+3. [Setting your commit email address in Git - Setting your email address for a single repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address#setting-your-email-address-for-a-single-repository)
+    ```
+    git config user.email "<your GitHub email address>"
+    ```
 
 ## Create a Feature Branch
 1. When starting a issue, use these commands to create an issue feature branch:
@@ -61,7 +73,9 @@ This project was created for the *Introduction to Agile and Git Workflows for We
 Pull requests are how you merge your feature branches into the `develop` working branch. It also allows your work to be reviewed by a mentor or team member before it merges.
 - [Creating a pull request (GitHub)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-Just be sure to set your "base" to `develop` and "compare" to your feature branch.
+Be sure to:
+1. Set your "base" to `develop` and "compare" to your feature branch.
+2. Include `Resolves #X` in the "Description" field, where "X" is your issue number, to link the pull request to your issue.
 
 ## Request a Review
 1. Update your issue:
