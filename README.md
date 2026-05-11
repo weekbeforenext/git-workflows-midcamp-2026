@@ -1,5 +1,5 @@
-# Introduction to Agile and Git Workflows for Web Developers
-This project was created for the *Introduction to Agile and Git Workflows for Web Developers* training.
+# Git Makes Sense… Until Other People Get Involved
+This project was created for the *Git Makes Sense… Until Other People Get Involved* training.
 
 [Story links](stories/README.md)
 
