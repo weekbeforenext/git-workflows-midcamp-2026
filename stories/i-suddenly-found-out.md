@@ -1,4 +1,4 @@
-# I'm an Heir
+# I'm an Heir to the throne
 
 "I suddenly found out that I was heir to a throne..."
 
