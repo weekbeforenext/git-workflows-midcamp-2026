@@ -1,4 +1,4 @@
-# story prompt 2
+# I'm an Heir
 
 "I suddenly found out that I was heir to a throne..."
 
