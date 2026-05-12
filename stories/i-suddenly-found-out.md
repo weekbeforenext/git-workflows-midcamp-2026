@@ -1,7 +1,7 @@
 #story prompt 2
 "I suddenly found out that I was heir to a throne..."
 
-It was a metaphorical Throne of Lies, as referencedd in Elf. I was not impressed.
+It was a metaphorical Throne of Lies, as referenced in Elf. I was not impressed.
 
 I decided to build myself a literal throne.  I made it out of velvet and down stuffing.  It wasn't really that comfortable.  I'm not impressed with thrones.
 
